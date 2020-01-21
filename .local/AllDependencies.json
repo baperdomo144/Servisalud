@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "DemoServiSalud",
       "projectName": "DemoServiSalud",
-      "projectPath": "C:\\Users\\baperdomo\\Documents\\UiPath\\DemoServiSalud\\.local",
+      "projectPath": "C:\\Users\\baperdomo\\Documents\\Servisalud\\DemoServiSalud\\.local",
       "packagesPath": "C:\\Users\\baperdomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baperdomo\\Documents\\UiPath\\DemoServiSalud\\.local"
+      "outputPath": "C:\\Users\\baperdomo\\Documents\\Servisalud\\DemoServiSalud\\.local"
     },
     "frameworks": {
       "net461": {
